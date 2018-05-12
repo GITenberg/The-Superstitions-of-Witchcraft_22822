@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25560'
     url: http://www.gutenberg.org/2009/agents/25560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22822#The-Superstitions-of-Witchcraft
 gutenberg_bookshelf: Witchcraft
 gutenberg_issued: '2007-10-01'
 gutenberg_type: Text
